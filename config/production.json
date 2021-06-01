@@ -1,0 +1,6 @@
+{
+    "name": "Default_Prod_app",
+    "mail": {
+        "host": "Prod-server"
+    }
+}
